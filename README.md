@@ -26,6 +26,3 @@ The program uses the docx2txt library to convert the Word documents to text, and
 The program also uses the pickle library to load pre-trained models for label encoding, word vectorization, and classification.
 
 Finally, the program uses the streamlit library to create a web application with a user interface for uploading the job description and resume documents.
-
-## Author
-This program was created by [Lakpa Sherpa](https://slakpa.com.np).
